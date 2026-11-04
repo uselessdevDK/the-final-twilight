@@ -1,5 +1,7 @@
 # The Final Twilight
 
+**Play it in your browser: <https://uselessdevdk.github.io/the-final-twilight/>**
+
 A first-person survival shooter that runs in a single HTML file. No build step, no dependencies, no asset files — everything (engine, weapons, zombies, sound, UI) is generated in code.
 
 Find the bunker, go inside, find the power switch, and get out before the horde closes in.
