@@ -1,0 +1,13 @@
+# dependencies (none are needed to play)
+node_modules/
+package-lock.json
+
+# editor / OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# temp files from the test scripts
+*.log
